@@ -1,5 +1,4 @@
 ---
-layout: post
-author: mark
+author: marc
 ---
 My second post.
