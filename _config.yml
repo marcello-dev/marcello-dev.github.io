@@ -3,7 +3,6 @@ description: personal website
 collections:
   authors:
     output: true
-
 defaults:
   - scope:
       path: ""
@@ -19,5 +18,6 @@ defaults:
       path: ""
     values:
       layout: "default"
-
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
