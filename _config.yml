@@ -21,3 +21,4 @@ defaults:
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
+google_analytics: UA-147721492-1
