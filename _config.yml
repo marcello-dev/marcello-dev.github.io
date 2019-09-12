@@ -1,5 +1,5 @@
-title: Marc's website
-description: this is my personal website
+title: Marcello Monachesi
+description: personal website
 collections:
   authors:
     output: true
@@ -20,4 +20,4 @@ defaults:
     values:
       layout: "default"
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
