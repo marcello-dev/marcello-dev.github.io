@@ -3,22 +3,11 @@ description: personal website
 collections:
   authors:
     output: true
-defaults:
-  - scope:
-      path: ""
-      type: "authors"
-    values:
-      layout: "author"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-theme: jekyll-theme-cayman
-github:
-  is_project_page: true
+
+paginate: 5
+paginate_path: "/blog/page:num"
+#theme: bulma-clean-theme
+#github:
+#  is_project_page: true
 google_analytics: UA-147721492-1
+remote_theme: chrisrhymes/bulma-clean-theme
