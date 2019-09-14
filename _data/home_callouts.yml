@@ -1,11 +1,11 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
-    icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
-    icon: fa-mail-bulk
-  - title: Works with GitHub Pages
-    subtitle: Quick and easy to get started
-    icon: fab fa-github
+  - icon: fa-copy
+    call_to_action_name: Bio
+    call_to_action_link: /about.html
+  - icon: fa-mail-bulk
+    call_to_action_name: Blog
+    call_to_action_link: /blog/
+  - icon: fab fa-github
+    call_to_action_name: Projects
+    call_to_action_link: /projects.html
