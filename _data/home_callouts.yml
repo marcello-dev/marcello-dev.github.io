@@ -1,6 +1,6 @@
 style: is-light
 items:
-  - title: Something about myself
+  - title: About myself
     icon: fa-copy
     call_to_action_name: Bio
     call_to_action_link: /bio/
