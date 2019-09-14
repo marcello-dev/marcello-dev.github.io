@@ -2,10 +2,10 @@ style: is-light
 items:
   - icon: fa-copy
     call_to_action_name: Bio
-    call_to_action_link: /about.html
+    call_to_action_link: /about/
   - icon: fa-mail-bulk
     call_to_action_name: Blog
     call_to_action_link: /blog/
   - icon: fab fa-github
     call_to_action_name: Projects
-    call_to_action_link: /projects.html
+    call_to_action_link: /projects/
