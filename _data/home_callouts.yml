@@ -11,4 +11,4 @@ items:
   - title: My personal projects
     icon: fab fa-github
     call_to_action_name: Projects
-    call_to_action_link: /projects/
+    call_to_action_link: /products/
