@@ -1,6 +1,6 @@
 ---
-title: Projects
-subtitle: Check out my projects
+title: Portfolio
+subtitle: Freelancing and personal projects
 layout: product-category
 show_sidebar: false
 sort: title

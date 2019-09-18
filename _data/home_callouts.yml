@@ -7,7 +7,7 @@ items:
     call_to_action_name: Blog
     call_to_action_link: /blog/
   - icon: fab fa-github
-    call_to_action_name: Projects
+    call_to_action_name: Portfolio
     call_to_action_link: /products/
   - icon: fas fa-envelope
     call_to_action_name: Contact
