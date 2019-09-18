@@ -2,13 +2,26 @@
 title: QuizAd
 subtitle: Quiz website
 layout: product
-image: https://via.placeholder.com/640x480
+image: img/quizad-home.png
 features:
-    - label: Great addition to any home
-      icon: fa-location-arrow
-    - label: Comes in a range of styles
-      icon: fa-grin-stars
-    - label: Available in multiple sizes
-      icon: fa-fighter-jet
+    - label: Full user management
+    - label: Images uploaded to AWS S3
+    - label: Admin overview
+    - label: Responsive design
 ---
-Quiz website for answering questions about products. User earns coins and can upload questions.
+Quiz website for answering questions about products.
+
+Users functions:
+- Sign in/out and login/logout
+- Earn coins by answering questions
+- Upload questions with images
+- Publish/unpublish questions
+
+Admin functions:
+- Add/delete/edit questions and users
+
+# Technologies
+Python 3, JavaScript, Flask, MySQL, Heroku
+
+# Where
+[Here](https://quizad.herokuapp.com/)

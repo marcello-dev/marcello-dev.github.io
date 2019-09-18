@@ -2,7 +2,7 @@
 title: Security Camera System
 subtitle: Display and manage multiple security cameras
 layout: product
-image: img/architecture.png
+image: img/security-camera-system-overview.png
 features:
     - label: Automatic backup
     - label: Add, remove, edit cameras
