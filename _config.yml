@@ -1,13 +1,11 @@
 title: Marc
 description: personal website
-tagline: my personal website
+tagline: personal website
 email: monachesi.m@live.com
 
 permalink: pretty
 
 collections:
-  authors:
-    output: true
   products:
     output: true
     layout: product

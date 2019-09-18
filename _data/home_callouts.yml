@@ -1,18 +1,14 @@
 style: is-light
 items:
-  - title: About myself
-    icon: fas fa-id-card
+  - icon: fas fa-id-card
     call_to_action_name: Bio
     call_to_action_link: /bio/
-  - title: My little blog
-    icon: fa-mail-bulk
+  - icon: fa-mail-bulk
     call_to_action_name: Blog
     call_to_action_link: /blog/
-  - title: Personal projects
-    icon: fab fa-github
+  - icon: fab fa-github
     call_to_action_name: Projects
     call_to_action_link: /products/
-  - title: Contact me
-    icon: fas fa-envelope
+  - icon: fas fa-envelope
     call_to_action_name: Contact
     call_to_action_link: /contact/
