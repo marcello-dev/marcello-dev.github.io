@@ -21,7 +21,7 @@ Admin functions:
 - Add/delete/edit questions and users
 
 # Technologies
-Python 3, JavaScript, Flask, MySQL, Heroku
+Python 3, JavaScript, JQuery, Flask, MySQL, Heroku
 
 # Where
 [Here](https://quizad.herokuapp.com/)
