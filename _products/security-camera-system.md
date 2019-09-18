@@ -2,7 +2,7 @@
 title: Security Camera System
 subtitle: Display and manage multiple security cameras
 layout: product
-image: img/overview.png
+image: img/architecture.png
 features:
     - label: Display multiple cameras on the screen
       icon: fa-fighter-jet
