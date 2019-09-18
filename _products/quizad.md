@@ -26,4 +26,4 @@ Admin functions:
 Python 3, JavaScript, JQuery, Flask, MySQL, JSON, Heroku
 
 # Where
-[Here](https://quizad.herokuapp.com/)
+[Deployed here](https://quizad.herokuapp.com/)
