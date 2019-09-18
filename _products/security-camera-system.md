@@ -44,7 +44,7 @@ Displays some, all, or one of the cameras at any given time.
 
 Additionally, it allows to add, edit or remove the cameras.
 
-![manage](img/manage-cams.png)
+![manage](img/manage.png)
 
 # Technologies
 Python 3, Flask, Flask-SocketIO, PostgreSQL, Docker, Docker-compose
