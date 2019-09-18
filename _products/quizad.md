@@ -11,6 +11,8 @@ features:
 ---
 Quiz website for answering questions about products.
 
+![manage](img/question.png)
+
 Users functions:
 - Sign in/out and login/logout
 - Earn coins by answering questions
