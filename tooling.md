@@ -8,10 +8,10 @@ As every software engineer, I use a variety of tools during my studies, work or 
 
 | Name        | Experience (years) | Notes  |
 | ------------- |-------------|--------------|
-| Dell XPS 15      | 5 (current) | Dual-boot Windows/Ubuntu |
+| Dell XPS 15      | 5 (current) | Dual-boot Windows / Ubuntu |
 | Mac Book Pro 15"     | 4   | Software development   |
 | [V4n Cluster](https://www.tranquilpc.co/v4n)          | 2    |    Setup OpenStack and showcase demos  |
-| ThinkCentre M900 | 2   |   Setup multi/single node OpenStack  |
+| ThinkCentre M900 | 2   |   Setup multi node OpenStack  |
 | Raspberry Pi     | <1 |    Set up cluster of 10 nodes        |
 
 ## Software
