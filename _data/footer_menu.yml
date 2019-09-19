@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: Bio
-  link: /bio/
+- name: Tools
+  link: /tools/
 - name: Blog
   link: /blog/
 - name: Portfolio

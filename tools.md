@@ -1,9 +1,7 @@
 ---
-title: Bio
+title: Tools
 layout: page
 ---
-
-# Tooling
 I used a variety of tools during my studies and work experience. Here I want to summarize them in the most helpful way.
 
 ## Hardware
@@ -31,16 +29,17 @@ I used a variety of tools during my studies and work experience. Here I want to 
 
 | Name       | Experience (years) | Notes  |
 | ------------- |-------------| -----|
-| Java 7,8  | 7 | Desktop and clouds apps |
+| Java 7,8  | 7 | Desktop and cloud apps |
 | Spring/Spring Boot  | 4 | Cloud apps |
 | BASH | 4 | Server setup, networking and automation  |
 | Python/Flask | 2 | Personal projects and LeetCode |
+| Go, PHP, C#, C | 1 | University level |  
 
 ### Bare metal
 
 | Name       | Experience (years)| Notes  |
 | ------------- |----| -----|
-| MAAS | 1 | Setup BlueBox |
+| MAAS | 1 | Setup V4n Cluster |
 
 ### IDE
 

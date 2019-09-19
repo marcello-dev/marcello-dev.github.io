@@ -1,8 +1,8 @@
 style: is-light
 items:
   - icon: fas fa-id-card
-    call_to_action_name: Bio
-    call_to_action_link: /bio/
+    call_to_action_name: Tools
+    call_to_action_link: /tools/
   - icon: fa-mail-bulk
     call_to_action_name: Blog
     call_to_action_link: /blog/
