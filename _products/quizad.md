@@ -1,6 +1,6 @@
 ---
 title: QuizAd
-subtitle: Quiz website
+subtitle: "[Python,JavaScript]"
 layout: product
 image: img/quizad-home.png
 features:

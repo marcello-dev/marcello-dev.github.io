@@ -1,6 +1,6 @@
 ---
 title: Security Camera System
-subtitle: Display and manage multiple security cameras
+subtitle: "[Python]"
 layout: product
 product_code: project-id-1
 image: img/security-camera-system-overview.png
