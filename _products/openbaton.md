@@ -26,7 +26,7 @@ For additional info follow this [link](http://openbaton.org/features.html).
 
 # My Contribution
 Initially, I designed and implemented the **FM System**, the **Monitoring Plugin** and the [Integration Tests](https://github.com/openbaton/integration-tests).  
-Later I took the responsibility of the project and the team, improving the core of the system (**NFVO**) and the CI internal pipeline based on Jenkins.  
+Later I took the responsibility of the project and the team, improving the core of the system (**NFVO**), the Jenkins-based CI Pipeline, and the delivery mechanism based on Docker-compose.  
 Additionally, I designed and implemented a **Software Package Manager**, as extension of Open Baton, for a global-scale telecom company based in China.
 
 # Technologies
