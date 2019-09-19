@@ -5,12 +5,12 @@ layout: product
 image: img/website-overview.png
 features:
     - label: Responsive design
-    - label: Hosted on Github Pages
     - label: File-based (No database)
-    - label: Static and fast website (Bulma framework)
+    - label: "Fast: static website"
+    - label: Powered by Jekyll on Github Pages
 ---
 Website based on the [Bulma](https://bulma.io/) framework and hosted on Github Pages.  
-Original theme built by [C.S. Rhymes](https://www.csrhymes.com).
+Original theme: [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme) built by [C.S. Rhymes](https://www.csrhymes.co)
 
 # Technologies
 HTML, CSS, Markdown, Jekyll, Yaml, Github Pages
