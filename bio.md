@@ -94,9 +94,9 @@ I used a variety of tools during my studies and work experience. Here I want to 
 
 | Name       | Experience (years)           | Notes  |
 | ------------- |-------------| -----|
-| MySQL      | 6 | Java and Spring Data JPA/JDBC |
+| MySQL      | 6 | Setup, Java and Spring Data JPA/JDBC |
 | PostgreSQL | 1 | Store data for Python projects |
-| MongoDB | 1 | Store VM images |
+| MongoDB | 1 | Store big files |
 | AWS RDS    | <1 | Bachelor thesis: encrypt database with PHP  |
 
 
