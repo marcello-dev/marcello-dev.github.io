@@ -47,10 +47,10 @@ Additionally, it allows to add, edit or remove the cameras.
 Solo developer.
 
 # Technologies
-Python 3, Flask, Flask-SocketIO, PostgreSQL, Docker, Docker-compose
+Python 3, Flask, Flask-SocketIO, PostgreSQL, Docker, Docker-compose.
 
 # Why
-Programming Contest on [freelancer.com](https://www.freelancer.com/contest/1556041). I was awarded as the winner among 18 participants for providing the best solution.
+Programming Contest on [freelancer.com](https://www.freelancer.com/contest/1556041). I was awarded as winner among 18 participants for providing the best solution.
 
 # Where
 [My Github](https://github.com/marcello-dev/security)

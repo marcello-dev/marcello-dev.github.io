@@ -10,13 +10,13 @@ features:
     - label: Powered by Jekyll on Github Pages
 ---
 Website based on the [Bulma](https://bulma.io/) framework and hosted on Github Pages.  
-Original theme: [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme) built by [C.S. Rhymes](https://www.csrhymes.co)
+Original theme: [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-theme) built by [C.S. Rhymes](https://www.csrhymes.co).
 
 # My Contribution  
 Solo developer.
 
 # Technologies
-HTML, CSS, Markdown, Jekyll, Yaml, Github Pages
+HTML, CSS, Markdown, Jekyll, Yaml, Github Pages.
 
 # Where
 [My Github](https://github.com/marcello-dev/marcello-dev.github.io)
