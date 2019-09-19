@@ -30,4 +30,4 @@ Later I took the responsibility of the project and the team, improving the core 
 Additionally, I designed and implemented a **Software Package Manager**, as extension of Open Baton, for a global-scale telecom company based in China.
 
 # Technologies
-Java, Spring Boot (Data, Security, Web), AngularJS, RabbitMQ, JSON, OpenStack, Juju, Zabbix.
+Java, Spring Boot (Data, Security, Web), AngularJS, RabbitMQ, JSON, OpenStack, Juju, Zabbix, Docker.
