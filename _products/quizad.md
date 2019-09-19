@@ -22,6 +22,9 @@ Users functions:
 Admin functions:
 - Add/delete/edit questions and users
 
+# My Contribution  
+Solo developer.
+
 # Technologies
 Python 3, JavaScript, JQuery, Flask, MySQL, JSON, Heroku
 
