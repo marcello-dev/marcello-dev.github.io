@@ -1,14 +1,14 @@
 style: is-light
 items:
-  - icon: fas fa-id-card
-    call_to_action_name: Tools
-    call_to_action_link: /tools/
-  - icon: fa-mail-bulk
-    call_to_action_name: Blog
-    call_to_action_link: /blog/
   - icon: fab fa-github
     call_to_action_name: Portfolio
     call_to_action_link: /products/
+  - icon: fas fa-id-card
+    call_to_action_name: Tooling
+    call_to_action_link: /tooling/
+  - icon: fa-mail-bulk
+    call_to_action_name: Blog
+    call_to_action_link: /blog/
   - icon: fas fa-envelope
     call_to_action_name: Contact
     call_to_action_link: /contact/

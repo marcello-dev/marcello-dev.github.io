@@ -1,10 +1,10 @@
 - name: Home
   link: /
-- name: Tools
-  link: /tools/
-- name: Blog
-  link: /blog/
 - name: Portfolio
   link: /products/
+- name: Tooling
+  link: /tooling/
+- name: Blog
+  link: /blog/
 - name: Contact
   link: /contact/

@@ -1,8 +1,8 @@
 ---
-title: Tools
+title: Tooling
 layout: page
 ---
-I used a variety of tools during my studies and work experience. Here I want to summarize them in the most helpful way.
+As every software engineer, I used a variety of tools during my studies, work or free time. Listed below are the tools and the relative number of years of experience.
 
 ## Hardware
 
