@@ -2,7 +2,7 @@
 title: Tooling
 layout: page
 ---
-As every software engineer, I used a variety of tools during my studies, work or free time. Listed below are the tools and the relative number of years of experience.
+As every software engineer, I use a variety of tools during my studies, work or free time. Listed below are the tools and the relative number of years of experience.
 
 ## Hardware
 

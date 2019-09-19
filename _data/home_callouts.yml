@@ -3,7 +3,7 @@ items:
   - icon: fab fa-github
     call_to_action_name: Portfolio
     call_to_action_link: /products/
-  - icon: fas fa-id-card
+  - icon: fas fa-cogs
     call_to_action_name: Tooling
     call_to_action_link: /tooling/
   - icon: fa-mail-bulk
