@@ -29,7 +29,7 @@ As every software engineer, I use a variety of tools during my studies, work or 
 
 | Name       | Experience (years) | Notes  |
 | ------------- |-------------| -----|
-| Java 7,8  | 7 | Desktop and cloud apps |
+| Java 7,8  | 4 | Desktop and cloud apps |
 | Spring/Spring Boot  | 4 | Cloud apps |
 | BASH | 4 | Server setup, networking and automation  |
 | Python/Flask | 2 | Personal projects and LeetCode |
