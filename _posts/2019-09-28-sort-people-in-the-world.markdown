@@ -17,7 +17,7 @@ What if we want to **sort the people by their age**? From the youngest to the ol
 In the following we consider different approaches, from the simplest case to the realistic. 
 
 ## Unlimited memory and disk
-Let's assume our laptop has unlimited memory (RAM) and disk storage, how to takle this problem?  
+Let's assume our laptop has unlimited memory (RAM) and disk storage, how to tackle this problem?  
 The solution will follow three steps:
 1. Read the file
 2. Sort the array
@@ -25,12 +25,12 @@ The solution will follow three steps:
 
 How long does it takes?  
 When it comes to sort n elements (step 2.), we know that common algorithms cannot perform better than **O(n log(n))**, given n the number of people.  
-With 7,7 * 10^9 persons it will take around 254 \* 10^9 iterations, then a common laptop can perform in less than one minute.  
+With 7,7 \* 10^9 persons it will take around 254 \* 10^9 iterations, which a common laptop can execute in less than one minute.  
 If it's not acceptable, we can consider using **Bucket sort**. 
 Since we are sorting by age, which is an integer within the range from 1 to 140, Bucket sort works very well.  
-It basically creates a map<integer, linked list> with the age as key. Then add each person to the relative linkedlist (bucket). The runtime here is **O(n)**.  
+It basically creates a map<integer, linked list> with the age as key. Then add each person to the relative linked list (bucket). The runtime here is **O(n)**.  
 
-Steps 1. and 2. takes time as well, but it's hard to estimate given our unrealistic cumpute resurces.
+Steps 1. and 2. takes time as well, but it's hard to estimate given our unrealistic computing resources.
 
 ## Unlimited memory and limited disk
 In this case, we can just write the output to a file in another machine with enough disk storage.
@@ -55,7 +55,7 @@ What's the memory usage of the Java object?
 So the memory usage for each person is 100 + 100 + 4 + 2 = 206 Bytes. Adding the Java object overhead we can safely round to 250 Bytes.
 
 The total memory usage will be 250 \* 7.7 \* 10^9 = 1925 \* 10^9 Bytes = 1925 Terabytes. Not possible for a standard computer.  
-Even if we consider the average name and surname to be 8 chars long, we will still need 1000 TB of RAM to load the file.
+Even if we consider the average name and surname 8 characters long, we will still need 1000 TB of RAM to load the file.
 
 ### Solution
 
