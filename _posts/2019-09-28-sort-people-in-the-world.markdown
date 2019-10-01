@@ -26,8 +26,8 @@ The solution will follow three steps:
 How long does it takes?  
 When it comes to sort n elements (step 2.), we know that common algorithms cannot perform better than **O(n log(n))**, given n the number of people.  
 With 7,7 \* 10^9 persons it will take around 254 \* 10^9 iterations, which a common laptop can execute in less than one minute.  
-If it's not acceptable, we can consider using **Bucket sort**. 
-Since we are sorting by age, which is an integer within the range from 1 to 140, Bucket sort works very well.  
+If it's not acceptable, we can consider using **Bucket Sort**. 
+Since we are sorting by age, an integer between 1 and 140, Bucket Sort is very efficient.  
 It basically creates a map<integer, linked list> with the age as key. Then add each person to the relative linked list (bucket). The runtime here is **O(n)**.  
 
 Steps 1. and 2. takes time as well, but it's hard to estimate given our unrealistic computing resources.
