@@ -18,6 +18,8 @@ I received my Master's Cum Laude in Computer Engineering from the University of 
 
 - **Developer Hegemony: The Future of Labor** (Erik Dietrich)
 
+- **Cracking the Coding Interview** (Gayle Laakmann McDowell)
+
 - **Clean Code** (Robert Cecil Martin)
 
 - **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (Martin Kleppmann)
