@@ -8,6 +8,21 @@ show_sidebar: true
 Hi! My name is Marcello Monachesi, but you can call me **Marc**. I am a software engineer with 4+ years experience.  
 I received my Master's Cum Laude in Computer Engineering from the University of Bologna (Italy) in 2015. Then I worked 4 years at Fraunhofer FOKUS, the biggest institute for applied research in Germany. Currently, I live in Taipei with my girlfriend and moving to a new working experience.  
 
+---
+
+<div class="icon is-large">
+	<a href="https://www.linkedin.com/in/marcellomonachesi/">
+		<i class="fab fa-3x fa-linkedin"></i>
+	</a>
+</div>
+<div class="icon is-large">
+	<a href="https://www.hackerrank.com/marsielo_m">
+		<i class="fab fa-3x fa-hackerrank"></i>
+	</a>
+</div>
+
+---
+
 # Books
 
 - **The DevOps Handbook** (Gene Kim, Jez Humble, John Willis, and Patrick Debois)
