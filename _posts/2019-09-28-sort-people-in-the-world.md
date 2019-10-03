@@ -1,7 +1,7 @@
 ---
 author: marc
 layout: post
-title:  "Sort 7.7 bilion people"
+title:  "How to sort 7.7 bilion people"
 hero_image: /blog/img/people.jpg
 published: true
 ---
