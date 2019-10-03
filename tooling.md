@@ -95,20 +95,3 @@ As every software engineer, I use a variety of tools during my studies, work or 
 | MongoDB | 1 | Store big files |
 | AWS RDS    | <1 | Bachelor thesis: encrypt database with PHP  |
 
-
-
-# Books
-
-- **The DevOps Handbook** (Gene Kim, Jez Humble, John Willis, and Patrick Debois)
-
-- **Building Microservices: Designing Fine-Grained Systems** (Sam Newman)
-
-- **Design Patterns: Elements of Reusable Object-Oriented Software** (Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm)
-
-- **Developer Hegemony: The Future of Labor** (Erik Dietrich)
-
-- **Clean Code** (Robert Cecil Martin)
-
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (Martin Kleppmann)
-
-- **Silicio** (Federico Faggin)
