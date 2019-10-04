@@ -54,20 +54,23 @@ show_sidebar: true
 
 ---
 
-# Books
+<div class="box">
+<h2>Books</h2>
+<ul>
+<li><strong>The DevOps Handbook</strong> (Gene Kim, Jez Humble, John Willis, and Patrick Debois)</li>
 
-- **The DevOps Handbook** (Gene Kim, Jez Humble, John Willis, and Patrick Debois)
+<li><strong>Building Microservices: Designing Fine-Grained Systems</strong> (Sam Newman)</li>
 
-- **Building Microservices: Designing Fine-Grained Systems** (Sam Newman)
+<li><strong>Design Patterns: Elements of Reusable Object-Oriented Software</strong> (Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm)</li>
 
-- **Design Patterns: Elements of Reusable Object-Oriented Software** (Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm)
+<li><strong>Developer Hegemony: The Future of Labor</strong> (Erik Dietrich)</li>
 
-- **Developer Hegemony: The Future of Labor** (Erik Dietrich)
+<li><strong>Cracking the Coding Interview</strong> (Gayle Laakmann McDowell)</li>
 
-- **Cracking the Coding Interview** (Gayle Laakmann McDowell)
+<li><strong>Clean Code</strong> (Robert Cecil Martin)</li>
 
-- **Clean Code** (Robert Cecil Martin)
+<li><strong>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</strong> (Martin Kleppmann)</li>
 
-- **Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems** (Martin Kleppmann)
-
-- **Silicio** (Federico Faggin)
+<li><strong>Silicio</strong> (Federico Faggin)</li>
+</ul>
+</div>
