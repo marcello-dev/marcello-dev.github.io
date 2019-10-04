@@ -13,14 +13,10 @@ show_sidebar: true
           <img src="img/profile-pic.png" alt="Placeholder image">
         </figure>
       </div>
-      <div class="media-content">
-        <p class="title is-4">Marcello Monachesi</p>
-        <p class="subtitle is-6">@marc</p>
-      </div>
     </div>
 
     <div class="content">
-		Hi! My name is Marcello, but you can call me <strong>Marc</strong>. 
+		My name is Marcello, but you can call me <strong>Marc</strong>. 
 		<br>
 		I am a software engineer with 4+ years experience.  
 		I received my Master's Cum Laude in Computer Engineering from the University of Bologna (Italy) in 2015.
@@ -47,6 +43,12 @@ show_sidebar: true
 <div class="icon is-large">
 	<a href="https://www.hackerrank.com/marsielo_m">
 		<i class="fab fa-3x fa-hackerrank"></i>
+	</a>
+</div>
+
+<div class="icon is-large">
+	<a href="https://twitter.com/marcellomon">
+		<i class="fab fa-3x fa-twitter"></i>
 	</a>
 </div>
 
