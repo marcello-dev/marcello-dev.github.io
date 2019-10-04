@@ -53,9 +53,8 @@ show_sidebar: true
 </div>
 
 ---
-
+<p class="title is-4">Books</p>
 <div class="box">
-<h2>Books</h2>
 <ul>
 <li><strong>The DevOps Handbook</strong> (Gene Kim, Jez Humble, John Willis, and Patrick Debois)</li>
 
