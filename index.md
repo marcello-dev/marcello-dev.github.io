@@ -30,27 +30,35 @@ show_sidebar: true
 
 <div class="icon is-large">
 	<a href="https://www.linkedin.com/in/marcellomonachesi/">
-		<i class="fab fa-3x fa-linkedin"></i>
-	</a>
-</div>
-
-<div class="icon is-large">
-	<a href="https://github.com/marcello-dev">
-		<i class="fab fa-3x fa-github"></i>
-	</a>
-</div>
-
-<div class="icon is-large">
-	<a href="https://www.hackerrank.com/marsielo_m">
-		<i class="fab fa-3x fa-hackerrank"></i>
+		<img src="/img/ld.png">
 	</a>
 </div>
 
 <div class="icon is-large">
 	<a href="https://twitter.com/marcellomon">
-		<i class="fab fa-3x fa-twitter"></i>
+		<img src="/img/tw.jpg">
 	</a>
 </div>
+
+<div class="icon is-large">
+	<a href="https://github.com/marcello-dev">
+		<img src="/img/gh.svg">
+	</a>
+</div>
+
+<div class="icon is-large">
+	<a href="https://www.hackerrank.com/marsielo_m">
+		<img src="/img/hr.png">
+	</a>
+</div>
+
+<div class="icon is-large">
+	<a href="https://leetcode.com/marcellox/">
+		<img src="/img/lc.png">
+	</a>
+</div>
+
+
 
 ---
 <p class="title is-4">Books</p>
