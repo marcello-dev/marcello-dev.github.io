@@ -4,8 +4,8 @@ layout: post
 title:  "Hashable objects for maps in Python"
 ---
 
-Maps, or dict, in Python are very useful. In order to create a dict, you have to choose an **hashable** object as key and a value.  
-What is an hashable object in Python?  
+Maps in Python are called dict. To create one, you have to choose an **hashable** object as key and a value.  
+What is an hashable object?  
 An hashable object is an object with a hash which never changes during its lifetime. Such objects are called immutable.  
 Python offers the following hashable built-in objects.
 
