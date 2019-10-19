@@ -70,9 +70,13 @@ show_sidebar: true
 
 <li><strong>Design Patterns: Elements of Reusable Object-Oriented Software</strong> (Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm)</li>
 
-<li><strong>Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services</strong> (Brendan Burns)</li>
+<li><strong>Time Management for System Administrators</strong> (Thomas A. Limoncelli)</li>
+
+<li><strong>Release It!: Design and Deploy Production-Ready Software</strong> (Michael T. Nygard)</li>
 
 <li><strong>Developer Hegemony: The Future of Labor</strong> (Erik Dietrich)</li>
+
+<li><strong>Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services</strong> (Brendan Burns)</li>
 
 <li><strong>Cracking the Coding Interview</strong> (Gayle Laakmann McDowell)</li>
 
