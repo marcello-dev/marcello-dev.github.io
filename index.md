@@ -70,7 +70,7 @@ show_sidebar: true
 
 <li><strong>Design Patterns: Elements of Reusable Object-Oriented Software</strong> (Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm)</li>
 
-<li><strong>Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services</strong>Brendan Burns</li>
+<li><strong>Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Services</strong> (Brendan Burns)</li>
 
 <li><strong>Developer Hegemony: The Future of Labor</strong> (Erik Dietrich)</li>
 
