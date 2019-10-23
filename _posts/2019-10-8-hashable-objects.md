@@ -15,27 +15,44 @@ Python offers the following hashable built-in objects.
 - int   
 - float            
 - tuple       
-- str 
-- frozenset 
-- bytes 
-- complex 
+- str
+- frozenset
+- bytes
+- complex
 
 ## Non-Hashable built-in objects
 
-- set 
-- dict 
+- set
+- dict
 - list    
-- byte array 
+- byte array
 
-# Examples
+## Example with an hashable object
 
-Create a simple dict with a int key and a string value. Then print the content of the key 1.
+Create a simple dict with a *int* key and a *string* value. Then print the content of the key 1.
 ```python
-mydict = {}
-mydict[1] = "Alice"
-print(mydict[1])
-```
-Output:
-```bash
+>>> mydict = {}
+>>> mydict[1] = "Alice"
+>>> print(mydict[1])
 Alice
+```
+
+## Example with non-hashable object
+
+In some cases we need a dict that as a *list* as key. For example:
+```python
+>>> mylist = ["Alice","Bob"]
+>>> mydict = {}
+>>> mydict[mylist] = 1
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: unhashable type: 'list'
+```
+In order to make a *list* (or another non-hashable object) hashable, you can use *tuple*.
+```python
+>>> mylist = ["Alice","Bob"]
+>>> mydict = {}
+>>> mydict[tuple(mylist)] = 1
+>>> print(mydict)
+{('Alice', 'Bob'): 1}
 ```
