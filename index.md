@@ -58,6 +58,13 @@ show_sidebar: true
 	</a>
 </div>
 
+<div class="icon is-large">
+        <a href="https://stackoverflow.com/users/8484783/marcello">
+                <img src="/img/stack-overflow.svg">
+        </a>
+</div>
+
+
 
 
 ---
