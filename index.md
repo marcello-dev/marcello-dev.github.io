@@ -85,5 +85,7 @@ show_sidebar: true
 <li><strong>Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems</strong> (Martin Kleppmann)</li>
 
 <li><strong>Silicio</strong> (Federico Faggin)</li>
+
+<li><strong>Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git</strong> (Emma Jane Hogbin)</li>
 </ul>
 </div>
