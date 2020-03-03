@@ -87,5 +87,7 @@ show_sidebar: true
 <li><strong>Silicio</strong> (Federico Faggin)</li>
 
 <li><strong>Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git</strong> (Emma Jane Hogbin)</li>
+
+<li><strong>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</strong> (Gene Kim)</li>
 </ul>
 </div>
