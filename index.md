@@ -20,8 +20,9 @@ show_sidebar: true
 		<br>
 		I am a software engineer with 4+ years experience.  
 		I received my Master's Cum Laude in Computer Engineering from the University of Bologna (Italy) in 2015.
-		Then I worked 4 years at Fraunhofer FOKUS, the biggest institute for applied research in Germany.
-		Currently, I live in Taipei with my girlfriend and moving to a new working experience.  
+		Then I worked 4 years at <a href="https://www.fokus.fraunhofer.de/en">Fraunhofer FOKUS</a>, the biggest institute for applied research in Germany.
+		In 2019 I moved to Taiwan with my girlfriend and since then I am working at <a href="https://www.thinkpower.info">Thinkpower</a>, 
+		a fast-growing company that develops software for the financial industry.
     </div>
   </div>
 </div>
