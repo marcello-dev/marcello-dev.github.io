@@ -6,6 +6,9 @@ title:  "Forecast of Coronavirus cases in Italy"
 
 This post is an updated version of [this article](https://towardsdatascience.com/covid-19-infection-in-italy-mathematical-models-and-predictions-7784b4d7dd8d) and will be updated on a daily basis.
 
+Code available on [GitHub](https://github.com/marcello-dev/coronavirus-forecast).
+
+
 **Update: 15 March 2020**
 
 According to the [logistic regression model](https://en.wikipedia.org/wiki/Logistic_regression), the predictions are the following:
