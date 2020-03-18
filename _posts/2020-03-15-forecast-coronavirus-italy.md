@@ -8,6 +8,19 @@ This post is an updated version of [this article](https://towardsdatascience.com
 
 Code available on [GitHub](https://github.com/marcello-dev/coronavirus-forecast).
 
+**Update: 17 March 2020**
+
+According to the [logistic regression model](https://en.wikipedia.org/wiki/Logistic_regression), the predictions are the following:
+- Peak of infections: 17 March 2020
+- End of infection: 10 May 2020
+- Total cases at the end of infection: 64710 (min: 61316, max: 68104)
+
+The image below shows the real data compared to the logistic model.
+
+![scraped](img/plot-2020-03-17.png)
+
+---
+
 **Update: 16 March 2020**
 
 According to the [logistic regression model](https://en.wikipedia.org/wiki/Logistic_regression), the predictions are the following:
