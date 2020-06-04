@@ -19,8 +19,8 @@ As every software engineer, I use a variety of tools during my studies, work or 
 
 | Name       | Experience (years)           | Notes  |
 | ------------- |-------------| -----|
-| Windows | my whole life?      |    Everything ( games ;) ) |
-| Ubuntu 14-18      | 9 (current) | Software development |
+| Windows | many years      |    everything |
+| Ubuntu 14-20      | 9 | Software development |
 | MacOS | 4      |    Software development |
 | CentOS 7    | 1      | Setup and maintenance of 15 servers  |
 | Raspbian | <1      |    Set up cluster of 10 nodes |
@@ -29,11 +29,11 @@ As every software engineer, I use a variety of tools during my studies, work or 
 
 | Name       | Experience (years) | Notes  |
 | ------------- |-------------| -----|
-| Java 7,8  | 4 | Desktop and cloud apps |
-| Spring/Spring Boot  | 4 | Cloud apps |
+| Java 7,8  | 5 | Desktop and cloud apps |
+| Spring/Spring Boot  | 5 | Cloud apps |
 | BASH | 4 | Server setup, networking and automation  |
 | Python/Flask | 2 | Personal projects and LeetCode |
-| Go, PHP, C#, C | 1 | University level |  
+| Go, PHP, C#, C | ~1 | University level |  
 
 ### Bare metal
 
@@ -45,9 +45,9 @@ As every software engineer, I use a variety of tools during my studies, work or 
 
 | Name        | Experience (years) | Notes  |
 | ------------- |-------------| -------|
-| Intellij IDEA | 4 | Software development  |
-| Eclipse    | 4    | At the University   |
-| Visual Studio    | 1    | At the University   |
+| Intellij IDEA | 4 |   |
+| Eclipse    | 5    |    |
+| Visual Studio    | 1    |   |
 
 ### Messaging
 
@@ -65,25 +65,27 @@ As every software engineer, I use a variety of tools during my studies, work or 
 | Vagrant    | 1 | Local testing  |
 | AWS S3 | 1   |    Store images uploaded by users |
 | AWS EC2 | <1  |    Set up VMs through APIs |
+| Pivotal Cloud Foundry | <1  |  Migration of a large application  |
 
 ### Version Control
 
 | Name       | Experience (years)           | Notes  |
 | ------------- |-------------| -----|
-| Git/Github      | 4 | Git workflow in a team of 8 people |
+| Git/Github      | 5 | Git workflow in a team of 8 people |
 
 ### Dependencies
 
 | Name       | Experience (years)           | Notes  |
 | ------------- |-------------| -----|
 | Gradle      | 4 | Manage 4/5 projects with 1 to 10 Java modules |
+| Maven      | 1 |  |
 
-### Testing
+### CI/CD
 
 | Name       | Experience (years)           | Notes  |
 | ------------- |-------------| -----|
+| JUnit/Travis    | 5   | Trigger tests on commit |
 | Jenkins      | 3 | Setup CI Pipeline for UAT |
-| JUnit/Travis    | 3   | Trigger tests on commit |
 | Pytest | 1 | Local testing my Python projects  |
 
 ### Database
