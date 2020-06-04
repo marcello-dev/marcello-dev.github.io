@@ -19,7 +19,7 @@ As every software engineer, I use a variety of tools during my studies, work or 
 
 | Name       | Experience (years)           | Notes  |
 | ------------- |-------------| -----|
-| Windows | many years      |    everything |
+| Windows | Many years      |    Everything |
 | Ubuntu 14-20      | 9 | Software development |
 | MacOS | 4      |    Software development |
 | CentOS 7    | 1      | Setup and maintenance of 15 servers  |
