@@ -68,7 +68,7 @@ show_sidebar: true
 
 
 ---
-<p class="title is-4">Books</p>
+<p class="title is-4">My reading list:</p>
 <div class="box">
 <ul>
 <li><strong>The DevOps Handbook</strong> (Gene Kim, Jez Humble, John Willis, and Patrick Debois)</li>
@@ -98,6 +98,8 @@ show_sidebar: true
 <li><strong>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</strong> (Gene Kim)</li>
 
 <li><strong>Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry</strong> (Josh Long, Kenny Bastani)</li>
+
+<li><strong>Clean Architecture</strong> (Robert C. Martin)</li>
 
 </ul>
 </div>
