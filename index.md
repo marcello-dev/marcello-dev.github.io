@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Marcello Monachesi
-callouts: home_callouts
+title: Marc
 show_sidebar: true
 ---
 
