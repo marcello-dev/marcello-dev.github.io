@@ -25,7 +25,10 @@ show_sidebar: true
     </div>
   </div>
 </div>
-
+---
+<p>
+        Recently active on <a href="https://stackoverflow.com/users/8484783/marcello">StackOverflow</a> and <a href="https://codereview.stackexchange.com/users/227157/marc">CodeReview</a>.
+</p>
 ---
 
 <div class="icon is-large">
@@ -61,6 +64,12 @@ show_sidebar: true
 <div class="icon is-large">
         <a href="https://stackoverflow.com/users/8484783/marcello">
                 <img src="/img/stack-overflow.svg">
+        </a>
+</div>
+
+<div class="icon is-large">
+        <a href="https://codereview.stackexchange.com/users/227157/marc">
+                <img src="/img/cr.png">
         </a>
 </div>
 
