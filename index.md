@@ -96,5 +96,8 @@ show_sidebar: true
 <li><strong>Git for Teams: A User-Centered Approach to Creating Efficient Workflows in Git</strong> (Emma Jane Hogbin)</li>
 
 <li><strong>The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win</strong> (Gene Kim)</li>
+
+<li><strong>Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry</strong> (Josh Long, Kenny Bastani)</li>
+
 </ul>
 </div>
