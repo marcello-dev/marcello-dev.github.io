@@ -15,7 +15,7 @@ collections:
 paginate: 5
 paginate_path: "/blog/page:num"
 
-google_analytics: UA-147721492-1
+google_analytics: UA-177939833-1
 
 remote_theme: chrisrhymes/bulma-clean-theme
 
