@@ -30,19 +30,21 @@ show_sidebar: true
 <p>
         Active on <a href="https://codereview.stackexchange.com/"><strong>CodeReview</strong></a> and <a href="https://stackoverflow.com/"><strong>StackOverflow</strong></a>:
 </p>
+<div>
 <a href="https://codereview.stackexchange.com/users/227157/marc">
     <img src="https://codereview.stackexchange.com/users/flair/227157.png" width="208" height="58" 
          alt="CodeReview profile"
          title="CodeReview profile">
 </a>
-
 <a href="https://stackoverflow.com/users/8484783/community">
     <img src="https://stackoverflow.com/users/flair/8484783.png" width="208" height="58" 
          alt="StackOverflow profile" 
          title="StackOverflow profile">
 </a>
-
+</div>
 ---
+
+Socials:
 
 <div class="icon is-large">
 	<a href="https://www.linkedin.com/in/marcellomonachesi/">
@@ -55,6 +57,10 @@ show_sidebar: true
 		<img src="/img/tw.jpg">
 	</a>
 </div>
+
+---
+
+GitHub and programming skills:
 
 <div class="icon is-large">
 	<a href="https://github.com/marcello-dev">
@@ -72,18 +78,6 @@ show_sidebar: true
 	<a href="https://leetcode.com/marcellox/">
 		<img src="/img/lc.png">
 	</a>
-</div>
-
-<div class="icon is-large">
-        <a href="https://stackoverflow.com/users/8484783/marcello">
-                <img src="/img/stack-overflow.svg">
-        </a>
-</div>
-
-<div class="icon is-large">
-        <a href="https://codereview.stackexchange.com/users/227157/marc">
-                <img src="/img/cr.png">
-        </a>
 </div>
 
 ---
