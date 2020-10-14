@@ -26,14 +26,20 @@ show_sidebar: true
   </div>
 </div>
 ---
-<p>
-        Recently active on <a href="https://stackoverflow.com/users/8484783/marcello">StackOverflow</a> and <a href="https://codereview.stackexchange.com/users/227157/marc">CodeReview</a>.
-</p>
 
-<a href="https://stackexchange.com/users/11580831/community">
-    <img src="https://stackexchange.com/users/flair/11580831.png" width="208" height="58" 
-         alt="profile for Community♦ at Stack Overflow, Q&A for professional and enthusiast programmers" 
-         title="profile for Community♦ at Stack Overflow, Q&A for professional and enthusiast programmers">
+<p>
+        Active on <a href="https://codereview.stackexchange.com/"><strong>CodeReview</strong></a> and <a href="https://stackoverflow.com/"><strong>StackOverflow</strong></a>:
+</p>
+<a href="https://codereview.stackexchange.com/users/227157/marc">
+    <img src="https://codereview.stackexchange.com/users/flair/227157.png" width="208" height="58" 
+         alt="CodeReview profile"
+         title="CodeReview profile">
+</a>
+
+<a href="https://stackoverflow.com/users/8484783/community">
+    <img src="https://stackoverflow.com/users/flair/8484783.png" width="208" height="58" 
+         alt="StackOverflow profile" 
+         title="StackOverflow profile">
 </a>
 
 ---
@@ -79,9 +85,6 @@ show_sidebar: true
                 <img src="/img/cr.png">
         </a>
 </div>
-
-
-
 
 ---
 <p class="title is-4">My reading list:</p>
