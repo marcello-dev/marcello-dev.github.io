@@ -29,6 +29,13 @@ show_sidebar: true
 <p>
         Recently active on <a href="https://stackoverflow.com/users/8484783/marcello">StackOverflow</a> and <a href="https://codereview.stackexchange.com/users/227157/marc">CodeReview</a>.
 </p>
+
+<a href="https://stackexchange.com/users/11580831/community">
+    <img src="https://stackexchange.com/users/flair/11580831.png" width="208" height="58" 
+         alt="profile for Community♦ at Stack Overflow, Q&A for professional and enthusiast programmers" 
+         title="profile for Community♦ at Stack Overflow, Q&A for professional and enthusiast programmers">
+</a>
+
 ---
 
 <div class="icon is-large">
@@ -109,6 +116,8 @@ show_sidebar: true
 <li><strong>Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry</strong> (Josh Long, Kenny Bastani)</li>
 
 <li><strong>Clean Architecture</strong> (Robert C. Martin)</li>
+
+<li><string>Microservices Patterns: With Examples in Java</strong> (Chris Richardson)</li>
 
 </ul>
 </div>
