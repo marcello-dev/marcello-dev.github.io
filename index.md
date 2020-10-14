@@ -117,7 +117,7 @@ show_sidebar: true
 
 <li><strong>Clean Architecture</strong> (Robert C. Martin)</li>
 
-<li><string>Microservices Patterns: With Examples in Java</strong> (Chris Richardson)</li>
+<li><strong>Microservices Patterns: With Examples in Java</strong> (Chris Richardson)</li>
 
 </ul>
 </div>
