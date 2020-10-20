@@ -44,7 +44,7 @@ show_sidebar: true
 </div>
 ---
 
-Socials:
+Let's connect!
 
 <div class="icon is-large">
 	<a href="https://www.linkedin.com/in/marcellomonachesi/">
