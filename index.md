@@ -116,7 +116,7 @@ GitHub and programming skills:
 
 <li><strong>Microservices Patterns: With Examples in Java</strong> (Chris Richardson)</li>
 
-<li><strong>Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith</strong> Sam Newman</li>
+<li><strong>Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith</strong> (Sam Newman)</li>
 
 </ul>
 </div>
