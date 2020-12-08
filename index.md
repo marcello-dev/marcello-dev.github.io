@@ -9,7 +9,7 @@ show_sidebar: true
     <div class="media">
       <div class="media-left">
         <figure class="image is-96x96">
-          <img src="img/profile-pic.png" alt="Placeholder image">
+          <img src="img/mm.png" alt="Placeholder image">
         </figure>
       </div>
     </div>
