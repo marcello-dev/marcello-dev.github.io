@@ -13,7 +13,6 @@ show_sidebar: true
         </figure>
       </div>
     </div>
-
     <div class="content">
 		My name is Marcello, but you can call me <strong>Marc</strong>.
 		<br>
@@ -30,17 +29,13 @@ show_sidebar: true
 <p>
         Active on <a href="https://codereview.stackexchange.com/"><strong>CodeReview</strong></a> and <a href="https://stackoverflow.com/"><strong>StackOverflow</strong></a>:
 </p>
+
+
+
 <div>
-<a href="https://codereview.stackexchange.com/users/227157/marc">
-    <img src="https://codereview.stackexchange.com/users/flair/227157.png" width="208" height="58" 
-         alt="CodeReview profile"
-         title="CodeReview profile">
-</a>
-
-<a href="https://stackoverflow.com/users/8484783/marc">
-	<img src="https://stackoverflow.com/users/flair/8484783.png" width="208" height="58" alt="profile for Marc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
+	<a href="https://stackexchange.com/users/11580831">
+		<img src="https://stackexchange.com/users/flair/11580831.png" width="208" height="58" alt="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+	</a>
 </div>
 ---
 
