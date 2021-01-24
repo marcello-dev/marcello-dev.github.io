@@ -48,13 +48,13 @@ Let's connect!
 
 <div class="icon is-large">
 	<a href="https://www.linkedin.com/in/marcellomonachesi/">
-		<img src="/img/ld.png">
+		<img src="/img/ld.png" alt="Linkedin logo" >
 	</a>
 </div>
 
 <div class="icon is-large">
 	<a href="https://twitter.com/marcellomon">
-		<img src="/img/tw.jpg">
+		<img src="/img/tw.jpg" alt="Twitter logo">
 	</a>
 </div>
 
@@ -64,19 +64,19 @@ GitHub and programming skills:
 
 <div class="icon is-large">
 	<a href="https://github.com/marcello-dev">
-		<img src="/img/gh.svg">
+		<img src="/img/gh.svg" alt="Github logo">
 	</a>
 </div>
 
 <div class="icon is-large">
 	<a href="https://www.hackerrank.com/marsielo_m">
-		<img src="/img/hr.png">
+		<img src="/img/hr.png" alt="HackerRank logo">
 	</a>
 </div>
 
 <div class="icon is-large">
 	<a href="https://leetcode.com/marcellox/">
-		<img src="/img/lc.png">
+		<img src="/img/lc.png" alt="LeetCode logo">
 	</a>
 </div>
 
