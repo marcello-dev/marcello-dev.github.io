@@ -36,11 +36,11 @@ show_sidebar: true
          alt="CodeReview profile"
          title="CodeReview profile">
 </a>
-<a href="https://stackoverflow.com/users/8484783/community">
-    <img src="https://stackoverflow.com/users/flair/8484783.png" width="208" height="58" 
-         alt="StackOverflow profile" 
-         title="StackOverflow profile">
+
+<a href="https://stackoverflow.com/users/8484783/marc">
+	<img src="https://stackoverflow.com/users/flair/8484783.png" width="208" height="58" alt="profile for Marc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Marc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
+
 </div>
 ---
 
