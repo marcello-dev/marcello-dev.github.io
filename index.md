@@ -9,7 +9,7 @@ show_sidebar: true
     <div class="media">
       <div class="media-left">
         <figure class="image is-96x96">
-          <img src="img/profile-pic.png" alt="Placeholder image">
+          <img src="favicon.png" alt="Placeholder image">
         </figure>
       </div>
     </div>
@@ -117,6 +117,10 @@ GitHub and programming skills:
 <li><strong>Microservices Patterns: With Examples in Java</strong> (Chris Richardson)</li>
 
 <li><strong>Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith</strong> (Sam Newman)</li>
+
+<li><strong>Fluent Python</strong> (Luciano Ramalho)</li>
+
+<li><strong>Spring Boot in Action</strong> (Craig Walls)</li>
 
 </ul>
 </div>
