@@ -9,7 +9,7 @@ show_sidebar: true
     <div class="media">
       <div class="media-left">
         <figure class="image is-96x96">
-          <img src="favicon.png" alt="Placeholder image">
+          <img src="favicon.png" alt="marcello-dev logo">
         </figure>
       </div>
     </div>
@@ -31,16 +31,9 @@ show_sidebar: true
         Active on <a href="https://codereview.stackexchange.com/"><strong>CodeReview</strong></a> and <a href="https://stackoverflow.com/"><strong>StackOverflow</strong></a>:
 </p>
 <div>
-<a href="https://codereview.stackexchange.com/users/227157/marc">
-    <img src="https://codereview.stackexchange.com/users/flair/227157.png" width="208" height="58" 
-         alt="CodeReview profile"
-         title="CodeReview profile">
-</a>
-<a href="https://stackoverflow.com/users/8484783/community">
-    <img src="https://stackoverflow.com/users/flair/8484783.png" width="208" height="58" 
-         alt="StackOverflow profile" 
-         title="StackOverflow profile">
-</a>
+    <a href="https://stackexchange.com/users/11580831">
+        <img src="https://stackexchange.com/users/flair/11580831.png" width="208" height="58" alt="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+    </a>
 </div>
 ---
 
@@ -48,13 +41,13 @@ Let's connect!
 
 <div class="icon is-large">
 	<a href="https://www.linkedin.com/in/marcellomonachesi/">
-		<img src="/img/ld.png">
+		<img src="/img/ld.png" alt="Linkedin logo">
 	</a>
 </div>
 
 <div class="icon is-large">
 	<a href="https://twitter.com/marcellomon">
-		<img src="/img/tw.jpg">
+		<img src="/img/tw.jpg" alt="Twitter logo">
 	</a>
 </div>
 
@@ -64,19 +57,19 @@ GitHub and programming skills:
 
 <div class="icon is-large">
 	<a href="https://github.com/marcello-dev">
-		<img src="/img/gh.svg">
+		<img src="/img/gh.svg" alt="Github logo">
 	</a>
 </div>
 
 <div class="icon is-large">
 	<a href="https://www.hackerrank.com/marsielo_m">
-		<img src="/img/hr.png">
+		<img src="/img/hr.png" alt="HackerRank logo">
 	</a>
 </div>
 
 <div class="icon is-large">
 	<a href="https://leetcode.com/marcellox/">
-		<img src="/img/lc.png">
+		<img src="/img/lc.png" alt="LeetCode logo">
 	</a>
 </div>
 
@@ -117,6 +110,10 @@ GitHub and programming skills:
 <li><strong>Microservices Patterns: With Examples in Java</strong> (Chris Richardson)</li>
 
 <li><strong>Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith</strong> (Sam Newman)</li>
+
+<li><strong>Fluent Python</strong> (Luciano Ramalho)</li>
+
+<li><strong>Spring Boot in Action</strong> (Craig Walls)</li>
 
 </ul>
 </div>
