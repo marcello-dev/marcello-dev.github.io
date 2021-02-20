@@ -53,7 +53,7 @@ Let's connect!
 
 ---
 
-GitHub and programming skills:
+GitHub and coding skills:
 
 <div class="icon is-large">
 	<a href="https://github.com/marcello-dev">
