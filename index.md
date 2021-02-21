@@ -9,7 +9,7 @@ show_sidebar: true
     <div class="media">
       <div class="media-left">
         <figure class="image is-96x96">
-          <img src="img/mm.png" alt="Placeholder image">
+          <img src="favicon.png" alt="marcello-dev logo">
         </figure>
       </div>
     </div>
@@ -33,9 +33,9 @@ show_sidebar: true
 
 
 <div>
-	<a href="https://stackexchange.com/users/11580831">
-		<img src="https://stackexchange.com/users/flair/11580831.png" width="208" height="58" alt="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-	</a>
+    <a href="https://stackexchange.com/users/11580831">
+        <img src="https://stackexchange.com/users/flair/11580831.png" width="208" height="58" alt="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Marc on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+    </a>
 </div>
 ---
 
@@ -43,7 +43,7 @@ Let's connect!
 
 <div class="icon is-large">
 	<a href="https://www.linkedin.com/in/marcellomonachesi/">
-		<img src="/img/ld.png" alt="Linkedin logo" >
+		<img src="/img/ld.png" alt="Linkedin logo">
 	</a>
 </div>
 
@@ -55,11 +55,17 @@ Let's connect!
 
 ---
 
-GitHub and programming skills:
+GitHub and coding skills:
 
 <div class="icon is-large">
 	<a href="https://github.com/marcello-dev">
 		<img src="/img/gh.svg" alt="Github logo">
+	</a>
+</div>
+
+<div class="icon is-large">
+	<a href="https://app.codesignal.com/profile/marc_marc">
+		<img src="/img/cs.svg" alt="CodeSignal logo">
 	</a>
 </div>
 
