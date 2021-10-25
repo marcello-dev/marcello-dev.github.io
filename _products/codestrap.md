@@ -13,6 +13,10 @@ It allows to quickly bootstrap a dev project entirely in the browser!
 
 With a few clicks is possible to configure and launch a dev project with your favorite language and framework (for example Java with Spring Boot). The project is launched in Gitpod to develop and debug directly in the browser. Supported languages are Java, Python, and JavaScript including a few frameworks.
 
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sBDu7gD5LHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ![project-config](img/codestrap-project-config.png)
 
 The extension combines two cool technologies: [GitHub templates](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and [Gitpod](https://www.gitpod.io/). GitHub templates allow copying a repository as a base template for your project. Gitpod (besides other features) provides a web Visual Studio Code connected to GitHub repositories. Codestrap combines these two features in a handy Chrome extension.
