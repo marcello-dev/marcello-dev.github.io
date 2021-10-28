@@ -127,5 +127,7 @@ GitHub and coding skills:
 
 <li><strong>Domain-Driven Design: Tackling Complexity in the Heart of Software</strong> (Eric Evans)</li>
 
+<li><strong>Learn AWS Serverless Computing</strong> (Scott Patterson)</li>
+
 </ul>
 </div>
