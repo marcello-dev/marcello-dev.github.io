@@ -38,4 +38,4 @@ Solo developer.
 JavaScript
 
 # Where
-At the moment in a private repo. The templates are opensource [here](https://github.com/code-strap). 
+[Here on GitHub](https://github.com/marcello-dev/codestrap). The templates are [here](https://github.com/code-strap). 
