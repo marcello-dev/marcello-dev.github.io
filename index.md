@@ -123,5 +123,9 @@ GitHub and coding skills:
 
 <li><strong>Spring Boot in Action</strong> (Craig Walls)</li>
 
+<li><strong>AWS Lambda: A Hands-on, In Depth Guide to Serverless Microservices</strong> (Jason Clothier)</li>
+
+<li><strong>Domain-Driven Design: Tackling Complexity in the Heart of Software</strong> (Eric Evans)</li>
+
 </ul>
 </div>
