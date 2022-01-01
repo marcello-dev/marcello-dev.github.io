@@ -19,8 +19,7 @@ show_sidebar: true
 		I am a software engineer with 5+ years experience.  
 		I received my Master's Cum Laude in Computer Engineering from the University of Bologna (Italy) in 2015.
 		Then I worked 4 years at <a href="https://www.fokus.fraunhofer.de/en">Fraunhofer FOKUS</a>, the biggest institute for applied research in Germany.
-		In 2019 I moved to Taiwan with my girlfriend and since then I am working at <a href="https://www.tpisoftware.com/en">TPISoftware</a>, 
-		a fast-growing company that develops software for the financial industry. In my free time I love playing football.
+		Today I live in Taiwan with my girlfriend and working for <a href="https://www.tomtom.com">TomTom</a>. In my free time I love playing football.
     </div>
   </div>
 </div>
