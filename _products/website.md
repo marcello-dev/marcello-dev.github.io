@@ -16,7 +16,9 @@ Original theme: [bulma-clean-theme](https://github.com/chrisrhymes/bulma-clean-t
 Solo developer.
 
 # Technologies
+
 HTML, CSS, Markdown, Jekyll, Yaml, Github Pages.
 
 # Where
+
 [My Github](https://github.com/marcello-dev/marcello-dev.github.io)

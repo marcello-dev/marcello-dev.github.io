@@ -27,6 +27,3 @@ Solo developer.
 
 # Technologies
 Python 3, JavaScript, JQuery, Flask, MySQL, JSON, Heroku
-
-# Where
-[Deployed here](https://quizad.herokuapp.com/)

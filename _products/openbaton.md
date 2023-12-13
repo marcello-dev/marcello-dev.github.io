@@ -10,7 +10,7 @@ features:
     - label: Custom docker-compose deployment
     - label: User and Project management
 ---
-[Open Baton](http://openbaton.org/) is an extensible and customizable NFV MANO-compliant framework.
+[Open Baton](https://github.com/openbaton) is an extensible and customizable NFV MANO-compliant framework.
 
 # Background
 [What is NFV-MANO?](https://www.sdxcentral.com/networking/nfv/mano-lso/definitions/nfv-mano/)
@@ -21,8 +21,7 @@ In the telecommunications, there is a lack of opensource and standard tools for 
 # Architecture
 ![architecture](img/openbaton-arch.png)  
 The architecture is composed by ~10 **Spring Boot** services.  
-They communicate via the message broker (**RabbitMQ**) or the **REST API**. All the messages are **JSON**.  
-For additional info follow this [link](http://openbaton.org/features.html).
+They communicate via the message broker (**RabbitMQ**) or the **REST API**. All the messages are **JSON**.
 
 # My Contribution
 Initially, I designed and implemented the **FM System**, the **Monitoring Plugin** and the [Integration Tests](https://github.com/openbaton/integration-tests).  

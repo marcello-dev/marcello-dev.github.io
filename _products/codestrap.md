@@ -8,7 +8,7 @@ features:
     - label: Display and run personal GitHub repositories
     - label: Popular languages supported
 ---
-[Codestrap](https://chrome.google.com/webstore/detail/codestrap/mbnccmhnjeokeihamhbhnlacdcdimflg?hl=en&authuser=3) is a Google Chrome extension for developers.
+Codestrap is a Google Chrome extension for developers.
 It allows to quickly bootstrap a dev project entirely in the browser! 
 
 With a few clicks is possible to configure and launch a dev project with your favorite language and framework (for example Java with Spring Boot). The project is launched in Gitpod to develop and debug directly in the browser. Supported languages are Java, Python, and JavaScript including a few frameworks.
