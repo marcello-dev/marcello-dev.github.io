@@ -24,4 +24,6 @@ The script takes **more than 5 minutes to complete** on my laptop to output the 
 
 Finally, I decided to share my solution and ask for a code review on [StackExchange](https://codereview.stackexchange.com/questions/292027/bug-byte-puzzle-from-jane-street). Hopefully I will get some suggestions for performance improvements.
 
+Code of the solution: https://github.com/marcello-dev/bug-byte-puzzle
+
 
