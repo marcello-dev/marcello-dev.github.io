@@ -47,8 +47,8 @@ Let's connect!
 </div>
 
 <div class="icon is-large">
-	<a href="https://twitter.com/marcellomon">
-		<img src="/img/tw.jpg" alt="Twitter logo">
+	<a href="https://x.com/marcellomon">
+		<img src="/img/x.png" alt="X logo">
 	</a>
 </div>
 
