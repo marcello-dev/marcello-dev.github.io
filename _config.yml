@@ -18,8 +18,7 @@ repository: marcello-dev/marcello-dev.github.io
 
 google_analytics: G-DXBMYDSLGL
 
-# TODO: migrate to v1 https://www.csrhymes.com/bulma-clean-theme/docs/getting-started/upgrading-to-v1/
-remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0 
+remote_theme: chrisrhymes/bulma-clean-theme
 
 footer_menu: footer_menu
 
