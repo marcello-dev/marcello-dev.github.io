@@ -58,7 +58,7 @@ GitHub and coding skills:
 
 <div class="icon is-large">
 	<a href="https://github.com/marcello-dev">
-		<img src="/img/gh.svg" alt="Github logo">
+		<img src="/img/gh.png" alt="Github logo">
 	</a>
 </div>
 
