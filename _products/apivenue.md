@@ -1,28 +1,27 @@
 ---
 title: API Venue
-subtitle: "[Java,Spring,Tymeleaf,Bootstrap,MariaDB,AWS]"
+subtitle: "[Java,Spring,MariaDB,AWS]"
 layout: product
 image: img/apivenue-main.png
 features:
     - label: REST APIs
     - label: Low latency
-    - label: Product web page
+    - label: Data quality
 ---
-[API Venue](https://apivenue.com) offers a catalogue of REST APIs for various use cases. 
+[API Venue](https://apivenue.com) offers different REST APIs for various use cases. 
 
 These are some of the APIs available now: 
-- **Airports**: for airport data, including location and local time
-- **Football**: for football fixtures, live scores, teams, and players
-- **Country Codes**:for country and subdivision ISO codes
-- **QR Code**: for creating a QR Code in different ways
-- **EZ Twitter X**: for fetching Twitter/X users and tweets.
-- ...more soon
+- **Airports**: provides airport data, including ICAO/IATA codes and local time
+- **Football**: provides football fixtures, live scores, teams, and players
+- **Country Codes**: provides country and subdivision ISO codes
+- **QR Code**: for creating QR Codes in different ways
+- **EZ Twitter X**: for fetching Twitter/X data including users and tweets
 
-All APIs are available with free and premium plans on [Rapid API](https://rapidapi.com/user/epsi).
+Check out all available APIs on [Rapid API](https://rapidapi.com/user/epsi).
 
-The focus of API Venue is to provide data quality and minimum latency globally. For that, several QA atutomated tests runs every day to validate the data. 
+The focus of API Venue is to provide data quality and low latency. For that, several QA atutomated tests run every day to validate the data. 
 
-The low latency is achieved by deploying multiple instances to different cloud regions around the world. The database is also replicated to keep the data as close as possible to the users.
+The low latency is achieved by having multiple instances in different cloud regions around the world. The database is also replicated to keep the data as close as possible to the users.
 
 # My Contribution
 
@@ -34,6 +33,6 @@ The website is build with Spring Boot, Tymeleaf, and Bootstrap. APIs are built w
 
 # Reviews
 
-In a short time, **Airport API** and **Football API** have reached a popularity score of more than 9!
+In a short time, **Airport API** and **Football API** reached a popularity score of more than 9!
 
 ![apis](img/airports-football-api.png)

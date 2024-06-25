@@ -125,5 +125,7 @@ GitHub and coding skills:
 
 <li><strong>Learn AWS Serverless Computing</strong> (Scott Patterson)</li>
 
+<li><strong>Just Enough Software Architecture: A Risk-Driven Approach</strong> (George H. Fairbanks)</li>
+
 </ul>
 </div>
