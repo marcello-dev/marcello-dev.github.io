@@ -16,7 +16,7 @@ show_sidebar: true
     <div class="content">
 		Hello, my name is Marcello, but you can call me <strong>Marc</strong>.
 		<br>
-		I've been working as a software engineer since 2015. I received my Master's degree in Computer Engineering graduating Cum Laude from the University of Bologna in Italy. Then, I spent four years at <a href="https://www.fraunhofer.de/en.html">Fraunhofer</a>, the largest institute for applied research in Germany. Currently, I live in Taiwan, where I work for <a href="https://www.tomtom.com">TomTom</a>. In my free time, I enjoy playing football.
+		I work as a software engineer and enjoy playing football in my free time. On this website, I share my interests and show some projects I've worked on.
     </div>
   </div>
 </div>
