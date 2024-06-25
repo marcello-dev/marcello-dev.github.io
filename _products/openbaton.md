@@ -1,6 +1,6 @@
 ---
 title: Open Baton
-subtitle: "[Java]"
+subtitle: "[Java,Angular,MySQL]"
 layout: product
 image: img/openbaton.jpg
 features:

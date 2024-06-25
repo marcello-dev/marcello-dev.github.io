@@ -14,12 +14,9 @@ show_sidebar: true
       </div>
     </div>
     <div class="content">
-		My name is Marcello, but you can call me <strong>Marc</strong>.
+		Hello, my name is Marcello, but you can call me <strong>Marc</strong>.
 		<br>
-		I work as a software engineer since 2015.  
-		I received my Master's Cum Laude in Computer Engineering from the University of Bologna (Italy) in 2015.
-		Then I worked 4 years at <a href="https://www.fokus.fraunhofer.de/en">Fraunhofer FOKUS</a>, the biggest institute for applied research in Germany.
-		Today I live in Taiwan and working for <a href="https://www.tomtom.com">TomTom</a>. In my free time I love playing football.
+		I've been working as a software engineer since 2015. I received my Master's degree in Computer Engineering graduating Cum Laude from the University of Bologna in Italy. Then, I spent four years at <a href="https://www.fraunhofer.de/en.html">Fraunhofer</a>, the largest institute for applied research in Germany. Currently, I live in Taiwan, where I work for <a href="https://www.tomtom.com">TomTom</a>. In my free time, I enjoy playing football.
     </div>
   </div>
 </div>
