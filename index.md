@@ -60,12 +60,6 @@ GitHub and coding skills:
 </div>
 
 <div class="icon is-large">
-	<a href="https://app.codesignal.com/profile/marc_marc">
-		<img src="/img/cs.svg" alt="CodeSignal logo">
-	</a>
-</div>
-
-<div class="icon is-large">
 	<a href="https://www.hackerrank.com/marsielo_m">
 		<img src="/img/hr.png" alt="HackerRank logo">
 	</a>
