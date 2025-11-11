@@ -1,6 +1,6 @@
 ---
 title: Trippino
-subtitle: "[Javascript, Nodejs, HTML, CSS]"
+subtitle: "[Javascript, Nodejs, SQLite]"
 layout: product
 image: img/trippino-home.png
 ---
